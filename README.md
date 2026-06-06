@@ -4,8 +4,16 @@ Este proyecto utiliza un modelo de redes neuronales para clasificar imágenes de
 
 ## Instalación
 
-Clona el repositorio y asegúrate de tener Python 3.9+ instalado.  
-Instala las dependencias con:
+## Dependencias
+
+Este proyecto requiere las siguientes librerías de Python:
+
+- Streamlit: interfaz web interactiva
+- TensorFlow: modelo neuronal
+- NumPy: manejo de arreglos numéricos
+- Pillow: procesamiento de imágenes
+
+Instálalas todas con:
 
 ```bash
 pip install -r requirements.txt
